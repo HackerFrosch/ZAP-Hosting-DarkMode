@@ -1,0 +1,64 @@
+:root {
+--background-color-black: #121212;
+}
+
+body {
+ background-color: var(--background-color-black) !important;
+}
+.box-title {
+    background-color: #212121 !important;
+    box-shadow: 0px 0px 10px #000 !important;
+}
+.service-content:nth-child(2n), .service-content:nth-child(2n+1) {
+    background-color: #212121 !important;
+    color: #aaa !important;
+}
+.icon-text-box {
+    background-color: #424242 !important;
+    color: #ccc !important;
+    box-shadow: 0px 0px 5px #111 !important;
+}
+span {
+    color: #ddd !important;
+}
+.service-nav-new .content {
+    background-color: #212121 !important;
+}
+.service-nav-new .content .entry .value {
+    color: #ddd !important;
+}
+#service-sidebar-new .package-status {
+    background-color: #212121 !important;
+}
+#service-sidebar-new .package-status .info-description {
+    color: #ddd !important;
+}
+.button {
+    background-color: #616161 !important;
+}
+heading-box {
+    background-color: #424242 !important;
+    box-shadow: 0px 0px 5px #222 !important;
+}
+.post {
+    background-color: #424242 !important;
+    box-shadow: 0px 0px 5px #111 !important;
+}
+.post .sidebar {
+    background-color: #424242 !important;
+}
+.post .content {
+    background-color: #424242 !important;
+    color: #ddd !important;
+}
+.post .sidebar .title {
+    color: #ddd !important;
+}
+#service-sidebar-new .nav .dropdown-nav li {
+    background-color: #212121;
+    margin: 5px !important;
+    box-shadow: 0px 0px 5px #000;
+}
+#sitemap {
+    background-color: #212121 !important;
+}
