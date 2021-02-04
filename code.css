@@ -1,5 +1,7 @@
 :root {
 --background-color-black: #121212;
+--chat-bg-color: #616161 !important;
+--agent-bubble-bg: #818181 !important
 }
 
 body {
@@ -60,5 +62,89 @@ heading-box {
     box-shadow: 0px 0px 5px #000;
 }
 #sitemap {
+    background-color: #212121 !important;
+}
+.announcer .announcement, .announcer .icon-container {
+    background-color: #424242 !important;
+    color: #ddd !important;
+    box-shadow: 0px 0px 5px #111 !important;
+}
+.heading-box {
+    background-color: #424242;
+}
+.heading-box .title {
+    background-color: #616161;
+    color: #fff;
+}
+.table-new {
+    background-color: #424242;
+    box-shadow: 0px 0px 5px #111;
+}
+.table-new thead tr th {
+    background-color: #424242;
+    color: #ddd;
+}
+.quote .text {
+    background-color: #424242;
+    color: #ddd;
+    box-shadow: 0px 0px 5px #111;
+}
+#main.is-widget .container__inner {
+    box-shadow: 0px 0px 10px #000;
+}
+.input-area {
+background: #424242 !important;
+}
+.dropdown-fancy .chosen-container .chosen-single, .dropdown-fancy .chosen-container.chosen-container-active .chosen-single {
+    color: #ddd;
+    background-color: #424242 !important;
+    box-shadow: 0px 0px 5px #111;
+}
+.configuration-module-dropdown .chosen-drop, .dropdown-fancy .chosen-drop {
+    box-shadow: 0px 0px 10px #111;
+}
+.chosen-container .chosen-drop {
+    background: #424242;
+}
+.chosen-container .chosen-results {
+    color: #ddd;
+}
+.heading-box .title-container {
+    background-color: #616161;
+}
+.event-box {
+    background-color: #424242;
+}
+.event-box header .title {
+    color: #ddd;
+}
+.event-box header .subline {
+    color: #ddd;
+}
+.event-box .event-box-content {
+    color: #aaa;
+}
+.event-box .event-box-content strong {
+    color: #aaa;
+}
+.content-dropdown {
+    background-color: #212121;
+    box-shadow: 0px 0px 5px #000;
+}
+.content-dropdown .content.content-grey {
+    background-color: #212121;
+}
+.element-box {
+    background-color: #424242;
+    box-shadow: 0px 0px 5px #111;
+}
+.element-box .element.element-grey {
+    background-color: #424242;
+}
+#nav {
+    background: #212121;
+    box-shadow: 0px 0px 5px #222;
+}
+#nav .search {
     background-color: #212121 !important;
 }
