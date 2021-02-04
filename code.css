@@ -148,3 +148,9 @@ background: #424242 !important;
 #nav .search {
     background-color: #212121 !important;
 }
+.service-search-container .input-group-addon {
+    background: #424242;
+}
+.buyprocess-form input, .buyprocess-form textarea, .form-new input, .form-new textarea {
+    background: #424242;
+}
